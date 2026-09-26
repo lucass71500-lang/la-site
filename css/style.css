@@ -1,0 +1,13 @@
+
+body{margin:0;font-family:Arial,sans-serif;background:#07111E;color:#fff}
+.header{position:fixed;top:0;width:100%;background:#081522;border-bottom:1px solid #1f3448}
+.nav{max-width:1200px;margin:auto;display:flex;justify-content:space-between;align-items:center;padding:18px}
+.logo{font-size:36px;font-weight:800;color:#fff;text-decoration:none}
+.menu a{color:#cfd8e3;text-decoration:none;margin-left:24px}
+.hero{padding:140px 24px 80px;background:linear-gradient(135deg,#06111F,#0D2238)}
+.container{max-width:1200px;margin:auto}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:18px}
+.card{background:#102338;border:1px solid #21405e;border-radius:18px;padding:22px}
+.btn{display:inline-block;background:#D4A62A;color:#111;padding:14px 24px;border-radius:999px;text-decoration:none;font-weight:bold}
+.section{padding:70px 24px}
+.footer{padding:40px 24px;border-top:1px solid #1f3448;color:#9fb3c8}
