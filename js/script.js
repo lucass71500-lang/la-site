@@ -1,1 +1,1 @@
-console.log('L.A Site Base V5');
+window.addEventListener('scroll',()=>{const h=document.querySelector('.header');h.style.background=window.scrollY>40?'rgba(8,21,34,.96)':'rgba(8,21,34,.82)';});
